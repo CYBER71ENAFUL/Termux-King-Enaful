@@ -31,7 +31,7 @@ Or run directly:
 To remove the terminal and auto-startup:
 
 ```bash
-python W8TermuxStylePro.py
+python 71TermuxStylePro.py
 # Choose option [3] Remove Stylish Terminal
 ```
 
